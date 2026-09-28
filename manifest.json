@@ -1,0 +1,16 @@
+{
+  "name": "MyFitPal UK",
+  "short_name": "MyFitPal",
+  "description": "Fixed barcode scanner - iOS + Android - Open Food Facts UK search",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1046/1046857.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
